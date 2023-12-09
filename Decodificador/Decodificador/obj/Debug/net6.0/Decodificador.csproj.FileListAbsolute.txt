@@ -1,0 +1,14 @@
+C:\Users\ariel\source\repos\Decodificador\Decodificador\bin\Debug\net6.0\Decodificador.exe
+C:\Users\ariel\source\repos\Decodificador\Decodificador\bin\Debug\net6.0\Decodificador.deps.json
+C:\Users\ariel\source\repos\Decodificador\Decodificador\bin\Debug\net6.0\Decodificador.runtimeconfig.json
+C:\Users\ariel\source\repos\Decodificador\Decodificador\bin\Debug\net6.0\Decodificador.dll
+C:\Users\ariel\source\repos\Decodificador\Decodificador\bin\Debug\net6.0\Decodificador.pdb
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.dll
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\refint\Decodificador.dll
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.pdb
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\Decodificador.genruntimeconfig.cache
+C:\Users\ariel\source\repos\Decodificador\Decodificador\obj\Debug\net6.0\ref\Decodificador.dll
